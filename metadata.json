@@ -1,0 +1,7 @@
+{
+  "name": "한국프로세스혁신아카데미 | 공인 인증 시험 센터",
+  "description": "한국프로세스혁신아카데미 공식 ATC 랜딩페이지 - Microsoft, Unity, Autodesk 등 빅테크 공인 자격증 단체 도입 및 딸때까지 무한재시험 패키지",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
